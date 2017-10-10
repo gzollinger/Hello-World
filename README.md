@@ -9,3 +9,4 @@ Adding a picture:
 Second try to post picture: 
 ![My image](gzollinger.github.com/repository/img/flow 2.JPG)
  Hello-World/flow 2.JPG 
+![flow](https://user-images.githubusercontent.com/32434973/31392087-f434d0fe-ad9d-11e7-818f-439ce902b9d4.JPG)
