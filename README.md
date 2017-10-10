@@ -7,4 +7,5 @@ Adding a picture:
 [Flow Picture](Hello-World/flow 2.JPG)
 
 Second try to post picture: 
-![My image](gzollinger.github.com/repository/img/flow 2.jpg)
+![My image](gzollinger.github.com/repository/img/flow 2.JPG)
+ Hello-World/flow 2.JPG 
